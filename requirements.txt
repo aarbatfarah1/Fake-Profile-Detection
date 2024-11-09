@@ -1,0 +1,8 @@
+seaborn
+matplotlib
+pandas
+numpy
+plotly
+scikit-learn
+missingno
+nltk
